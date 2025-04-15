@@ -6,6 +6,5 @@
 (https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11737535)
 
 
-### Poster
 ![ROH Poster](poster.jpg)
 
