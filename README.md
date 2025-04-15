@@ -1,2 +1,2 @@
 # ROH
-![ROH Poster](poster.pdf)
+![ROH Poster](poster.jpg)
